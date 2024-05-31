@@ -2,7 +2,7 @@
 # Business Analyst Skills Analysis
 
 ## Overview
-This project focuses on analyzing the most required skills for Business Analyst positions. By querying job postings data, it identifies the top skills sought after in the field of Business Analysis.
+This project focuses on analyzing the most required skills for Business Analyst positions and salary companies are willing to pay for that position. By querying job postings data, it identifies the top skills sought after in the field of Business Analysis.
 
 ## Features
 - **SQL Query**: Utilizes SQL to extract relevant data from job postings database.
