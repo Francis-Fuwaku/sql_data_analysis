@@ -23,12 +23,9 @@ This project focuses on analyzing the most required skills for Business Analyst 
 - SQL-compatible database management system (e.g., MySQL, PostgreSQL).
 
 
-
-
 # Top Required Skills for Business Analysts
 
 This chart visualizes the top required skills for Business Analyst positions.
-
 ![Top Required Skills](/assets/most_sort_after_skill_for_business_analyst.png)
 
 ## Data Source
@@ -64,6 +61,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-Feel free to customize it further based on your project specifics and preferences!
